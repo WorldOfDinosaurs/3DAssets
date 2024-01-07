@@ -1,2 +1,4 @@
 git[[:space:]]add[[:space:]]Models.scnassets.zip.enc filter=lfs diff=lfs merge=lfs -text
 Models.scnassets.zip.enc filter=lfs diff=lfs merge=lfs -text
+Models.scnassets.zip.enc
+ filter=lfs diff=lfs merge=lfs -text
